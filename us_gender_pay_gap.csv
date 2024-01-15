@@ -1,0 +1,143 @@
+Occupation,Category,Women average annual salary ($),Men average annual salary ($),Pay gap ($),Pay gap as a percentage
+Admin & organisation,admin & organisation,41740,51328,9588,21.02
+HR managers,admin & organisation,67600,95004,27404,40.54
+Production clerks,admin & organisation,38376,53248,14872,38.75
+Human resources,admin & organisation,47424,65364,17940,37.83
+Admin,admin & organisation,35984,45656,9672,26.88
+Accountants,admin & organisation,51948,64272,12324,23.72
+Education admin,admin & organisation,60892,74828,13936,22.89
+Secretaries ,admin & organisation,35620,42172,6552,18.39
+Receptionists,admin & organisation,27664,32032,4368,15.79
+Property managers,admin & organisation,44980,50752,5772,12.83
+Accounting,admin & organisation,34320,38064,3744,10.91
+Admin,admin & organisation,33124,36452,3328,10.05
+Data entry keyers,admin & organisation,32136,34996,2860,8.90
+Office clerks,admin & organisation,32552,34424,1872,5.75
+Care & education,care & education,43937,53210,9273,20.17
+Doctors & surgeons,care & education,64792,104104,39312,60.67
+Teachers & instructors,care & education,40144,56992,16848,41.97
+Personal care,care & education,23660,31564,7904,33.41
+Healthcare,care & education,51116,65312,14196,27.77
+Education,care & education,46644,59332,12688,27.20
+Postsecondary ,care & education,59436,73268,13832,23.27
+Teacher assistants,care & education,25688,30160,4472,17.41
+Social services,care & education,50856,59384,8528,16.77
+Pre-secondary,care & education,49712,56992,7280,14.64
+Healthcare support,care & education,25584,29120,3536,13.82
+Nursing,care & education,24232,27456,3224,13.30
+Physical therapists,care & education,67964,76856,8892,13.08
+Secondary school ,care & education,51168,57616,6448,12.60
+Emergency medical,care & education,36868,41132,4264,11.57
+Nursing managers,care & education,55952,61880,5928,10.59
+Personal care aides,care & education,22100,24180,2080,9.41
+Special education ,care & education,51324,56056,4732,9.22
+Social workers,care & education,43628,46384,2756,6.32
+Creative & media,creative & media,46280,57009,10729,23.11
+Web developers,creative & media,51376,64740,13364,26.01
+Designers,creative & media,42224,53040,10816,25.62
+Arts & media,creative & media,45240,53248,8008,17.70
+Law & justice,law & justice,31601,40444,8843,26.22
+Legal occupations,law & justice,52052,91780,39728,76.32
+Protective services,law & justice,32084,46072,13988,43.60
+Police officers,law & justice,38636,54236,15600,40.38
+Lawyers,law & justice,82680,99580,16900,20.44
+Security,law & justice,26728,30628,3900,14.59
+Bailiffs & jailers,law & justice,35724,39260,3536,9.90
+Traffic clerks,law & justice,29952,31356,1404,4.69
+Manual Work,manual work,24632,30462,5829,23.82
+Construction,manual work,26468,39728,13260,50.10
+Production workers,manual work,25584,35152,9568,37.40
+Metal workers,manual work,26572,33644,7072,26.61
+Grounds maintenance,manual work,21476,26884,5408,25.18
+Farming & fishing,manual work,19500,23764,4264,21.87
+Farmers,manual work,19188,22724,3536,18.43
+Electrical workers,manual work,26312,31096,4784,18.18
+Packers ,manual work,20540,23868,3328,16.20
+Laborers,manual work,24752,28392,3640,14.71
+Construction,manual work,35932,39364,3432,9.55
+Sales & serving others,sales & serving others,35021,42699,7678,21.55
+Sales ,sales & serving others,29640,43732,14092,47.54
+Domestic supervisors,sales & serving others,26000,37440,11440,44.00
+Retail salespersons,sales & serving others,25532,36296,10764,42.16
+Marketing & sales ,sales & serving others,59800,84448,24648,41.22
+Bartenders,sales & serving others,23868,32968,9100,38.13
+Recreation & fitness,sales & serving others,27092,37232,10140,37.43
+Real estate,sales & serving others,37752,51532,13780,36.50
+Drivers,sales & serving others,28340,38428,10088,35.60
+Insurance sales ,sales & serving others,36296,49192,12896,35.53
+Food service manager,sales & serving others,30940,41912,10972,35.46
+Training ,sales & serving others,49660,66560,16900,34.03
+Retail supervisors,sales & serving others,30940,41236,10296,33.28
+Clergy,sales & serving others,39676,52364,12688,31.98
+Janitors,sales & serving others,21580,28080,6500,30.12
+Credit counselors,sales & serving others,47580,61776,14196,29.84
+Retail sales ,sales & serving others,39832,51272,11440,28.72
+Wholesale reps,sales & serving others,45396,58240,12844,28.29
+Service occupations,sales & serving others,23972,30316,6344,26.46
+Transportation,sales & serving others,43472,52728,9256,21.29
+Waiters & bartenders,sales & serving others,21840,26468,4628,21.19
+Waiters & waitresses,sales & serving others,21580,26052,4472,20.72
+Postal service ,sales & serving others,44252,53300,9048,20.45
+Claims adjusters,sales & serving others,47216,56836,9620,20.37
+Wholesale buyers,sales & serving others,41912,50440,8528,20.35
+Catering supervisors,sales & serving others,25220,30316,5096,20.21
+Advertising sales ,sales & serving others,45292,54132,8840,19.52
+Butchers,sales & serving others,23764,27924,4160,17.51
+Purchasers,sales & serving others,46644,54808,8164,17.50
+Customer services,sales & serving others,31512,36296,4784,15.18
+Pharmacists,sales & serving others,98904,113152,14248,14.41
+Sales supervisors,sales & serving others,45656,52208,6552,14.35
+Dispatchers,sales & serving others,34788,39728,4940,14.20
+Chefs & head cooks,sales & serving others,27612,31252,3640,13.18
+Insurance clerks,sales & serving others,32864,36868,4004,12.18
+Bakers,sales & serving others,24388,26936,2548,10.45
+Tellers,sales & serving others,26364,28288,1924,7.30
+Purchasing managers,sales & serving others,66352,71032,4680,7.05
+Counselors,sales & serving others,43212,46020,2808,6.50
+Cashiers,sales & serving others,20124,21424,1300,6.46
+Bus drivers,sales & serving others,30264,32032,1768,5.84
+Food service,sales & serving others,19396,19968,572,2.95
+Cooks,sales & serving others,21060,21632,572,2.72
+Food preparation ,sales & serving others,20852,21372,520,2.49
+Housekeeping,sales & serving others,20800,21008,208,1.00
+Stock clerks ,sales & serving others,26728,26208,-520,-1.95
+"Science, tech & engineering","science, tech & engineering",51021,61057,10036,20.46
+Production supervisors,"science, tech & engineering",34268,48984,14716,42.94
+Inspectors & testers,"science, tech & engineering",30056,42640,12584,41.87
+Production ,"science, tech & engineering",26104,36972,10868,41.63
+Engineering,"science, tech & engineering",40820,55432,14612,35.80
+Medical scientists,"science, tech & engineering",59332,75348,16016,26.99
+Market research,"science, tech & engineering",52104,65988,13884,26.65
+IT support,"science, tech & engineering",43524,54548,11024,25.33
+Assembly,"science, tech & engineering",26312,32916,6604,25.10
+IT & math,"science, tech & engineering",60580,74620,14040,23.18
+Diagnostics,"science, tech & engineering",48880,60112,11232,22.98
+Physical scientists,"science, tech & engineering",65624,80444,14820,22.58
+Architecture ,"science, tech & engineering",60216,73476,13260,22.02
+Medical managers,"science, tech & engineering",63180,75296,12116,19.18
+Software developers,"science, tech & engineering",75764,90272,14508,19.15
+Operations managers,"science, tech & engineering",59072,70200,11128,18.84
+Operations analysts,"science, tech & engineering",64116,75764,11648,18.17
+Social science,"science, tech & engineering",55224,64844,9620,17.42
+IT analysts,"science, tech & engineering",65468,75920,10452,15.97
+Programmers,"science, tech & engineering",65156,75244,10088,15.48
+IT managers,"science, tech & engineering",79508,91676,12168,15.30
+IT,"science, tech & engineering",51168,58344,7176,14.02
+Maintenance,"science, tech & engineering",37700,42848,5148,13.66
+Compliance officers,"science, tech & engineering",56784,64324,7540,13.28
+Civil engineers,"science, tech & engineering",66300,73112,6812,10.27
+Machine operators,"science, tech & engineering",24804,27144,2340,9.43
+Science techs,"science, tech & engineering",41860,45344,3484,8.32
+Lab techs,"science, tech & engineering",42536,45656,3120,7.33
+Health technicians,"science, tech & engineering",32136,32136,0,0.00
+Senior managers & execs,senior managers & execs,56883,78447,21564,37.79
+Financial advisors,senior managers & execs,52208,85124,32916,63.05
+Financial services,senior managers & execs,45916,70512,24596,53.57
+Financial managers,senior managers & execs,58604,86892,28288,48.27
+Chief executives,senior managers & execs,81744,116792,35048,42.88
+Management analysts,senior managers & execs,64428,86580,22152,34.38
+Financial operations,senior managers & execs,54912,73632,18720,34.09
+Business operations,senior managers & execs,49088,63908,14820,30.19
+Management,senior managers & execs,58604,75608,17004,29.02
+Financial analysts,senior managers & execs,63648,77636,13988,21.98
+Office supervisor,senior managers & execs,39676,47788,8112,20.45
